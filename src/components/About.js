@@ -1,5 +1,6 @@
 import React from 'react'
 import Hero from "../assets/images/hero.jpg";
+import "../css/About.css";
 
 const About = () => {
   return (
