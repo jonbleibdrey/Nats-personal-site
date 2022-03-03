@@ -1,10 +1,10 @@
-import React from 'react'
+import React from "react";
 import Hero from "../assets/images/hero.jpg";
 import "../css/Blog.css";
 
 const Blog = () => {
   return (
-    <section id="blog" className="blog flex-columns flex-reverse">
+    <section id="#background" className="blog flex-columns flex-reverse">
       <div className="row">
         <div className="column">
           <div className="column-1">
@@ -34,7 +34,7 @@ const Blog = () => {
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default Blog
+export default Blog;

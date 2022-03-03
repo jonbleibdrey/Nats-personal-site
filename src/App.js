@@ -8,7 +8,7 @@ import NavBar from "./components/NavBar";
 import Projects from "./components/Projects";
 import Team from "./components/Team";
 import "./css/App.css";
-import './css/Utilities.css'
+import "./css/Utilities.css";
 
 function App() {
   return (
@@ -20,8 +20,9 @@ function App() {
       <main>
         <Icons />
         <About />
-        <Projects />
         <Blog />
+        <About />
+        <Projects />
         <Team />
         <Contact />
       </main>
