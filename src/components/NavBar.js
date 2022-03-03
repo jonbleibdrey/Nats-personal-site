@@ -5,7 +5,7 @@ const NavBar = () => {
   return (
     <div id="navbar" className="navbar top">
       <h1 className="logo">
-        <i class="fa-solid fa-capsules"></i>
+        <i style={{color: "#FBC4AB"}} class="fa-solid fa-capsules"></i>
         <span className="text-primary">&nbsp; Nataly Patino Bleibdrey</span>
       </h1>
       <nav>

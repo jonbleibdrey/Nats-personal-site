@@ -1,29 +1,31 @@
 import React from "react";
 import "../css/Project.css";
 import Hero from "../assets/images/hero.jpg";
+import Pdf1 from '../assets/document/pub1.pdf';
+import Pdf2 from '../assets/document/pub2.pdf';
+import Pdf3 from '../assets/document/pub3.pdf';
 
 const Projects = () => {
   return (
     <section id="publications" className="cases flex-grid section-padding">
       <header className="section-header">
         <h4>What I've worked on...</h4>
-        <h2>Portfolio</h2>
+        <h2>Publications</h2>
         <p>
-          I try to practice broad projects, as well as consistently producing
-          new projects, and I also remember to keep it light.
+          These are my publications so far:
         </p>
       </header>
       <div className="row">
         <div className="column">
           <a
-            href="https://affectionate-agnesi-a20650.netlify.app/"
+            href={Pdf1}
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src={Hero} alt="look up" />
+            <img src={Hero} alt="download" />
           </a>
           <a
-            href="https://yumyumfresh.netlify.app/"
+            href={Pdf2}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -32,7 +34,7 @@ const Projects = () => {
         </div>
         <div className="column">
           <a
-            href="https://blissful-northcutt-caae64.netlify.app/"
+            href={Pdf3}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -44,38 +46,6 @@ const Projects = () => {
             rel="noopener noreferrer"
           >
             <img src={Hero} alt="read by humans" />
-          </a>
-        </div>
-        <div className="column">
-          <a
-            href="https://fake-fun.web.app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img src={Hero} alt=" google" />
-          </a>
-          <a
-            href="https://tinder-clone-9d53e.web.app/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img src={Hero} alt="president" />
-          </a>
-        </div>
-        <div className="column">
-          <a
-            href="https://zen-hopper-ce8178.netlify.app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img src={Hero} alt="robot" />
-          </a>
-          <a
-            href="https://github.com/jonbleibdrey/rails_food_truck_review"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img src={Hero} alt=" foodtruck" />
           </a>
         </div>
       </div>

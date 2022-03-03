@@ -1,5 +1,5 @@
 /* just for fonts */
-@import url('https://fonts.googleapis.com/css2?family=Faustina:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
 
 /* css code to start off with  */
 * {
@@ -39,11 +39,11 @@ img {
 /* text colors - these are used to set your colors through out entire site */
 
 .text-primary {
-  color: rgb(247, 242, 239);
+  color: rgb(19, 18, 18);
 }
 
 .text-secondary {
-  color: rgb(81, 142, 192);
+  color: rgb(248, 248, 248);
 }
 
 /* button - this is used to customized buttons through out entire site */
@@ -52,7 +52,7 @@ img {
   display: inline-block;
   padding: 10px 30px;
   color: #fff;
-  background-color: rgb(136, 172, 160);
+  background-color: #FBC4AB;
   border: none;
   border-radius: 5px;
 }
@@ -63,12 +63,12 @@ img {
 
 .btn-primary,
 .bg-primary {
-  background: rgb(136, 172, 160);
+  background: #F8AD9D;
   color: #fff;
 }
 .btn-secondary,
 .bg-secondary {
-  background: rgb(136, 172, 160);
+  background: #F8AD9D;
   color: #fff;
 }
 .btn-dark,
@@ -179,11 +179,11 @@ img {
 
 .flex-grid .column {
   flex: 25%;
-  max-width: 25%;
+  max-width: 50%;
   padding: 0 4px;
 }
 
 .home {
-  font-family: 'Faustina', serif;
-  font-size: large;
+  font-family: 'Amatic SC', cursive;
+  font-size: x-large;
 }
