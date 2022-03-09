@@ -1,12 +1,12 @@
 /* this is only to get fonts from google fonts */
-@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
 
 
 .hero {
-  background: url("../assets/images/1325192.webp") no-repeat center center/cover;
+  background: url("../assets/images/hero1.jpg") no-repeat center center/cover;
   height: 100vh;
   position: relative;
-  color: #fff;
+  color: #333;
 }
 
 .hero .content {
@@ -21,7 +21,7 @@
 
 .hero .content h1 {
   font-size: 55px;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Dancing Script', cursive;
 }
 
 .hero .content p {

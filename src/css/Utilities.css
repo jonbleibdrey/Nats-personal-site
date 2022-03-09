@@ -1,5 +1,5 @@
 /* just for fonts */
-@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 /* css code to start off with  */
 * {
@@ -184,6 +184,6 @@ img {
 }
 
 .home {
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Bebas Neue', cursive;
   font-size: x-large;
 }
