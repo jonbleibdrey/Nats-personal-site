@@ -52,7 +52,7 @@ img {
   display: inline-block;
   padding: 10px 30px;
   color: #fff;
-  background-color: #FBC4AB;
+  background-color: #e4c5be;
   border: none;
   border-radius: 5px;
 }
@@ -63,12 +63,12 @@ img {
 
 .btn-primary,
 .bg-primary {
-  background: #F8AD9D;
+  background: #e4c5be;
   color: #fff;
 }
 .btn-secondary,
 .bg-secondary {
-  background: #F8AD9D;
+  background: #796763;
   color: #fff;
 }
 .btn-dark,

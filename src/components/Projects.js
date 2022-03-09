@@ -1,6 +1,6 @@
 import React from "react";
 import "../css/Project.css";
-import Hero from "../assets/images/hero.jpg";
+import Hero from "../assets/images/hero3.jpg";
 import Pdf1 from '../assets/document/pub1.pdf';
 import Pdf2 from '../assets/document/pub2.pdf';
 import Pdf3 from '../assets/document/pub3.pdf';

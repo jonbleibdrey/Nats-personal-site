@@ -1,5 +1,5 @@
 import React,  { useRef } from 'react'
-import Hero from "../assets/images/hero.jpg";
+import Hero from "../assets/images/hero4.jpg";
 import emailjs from '@emailjs/browser';
 import "../css/Contact.css";
 

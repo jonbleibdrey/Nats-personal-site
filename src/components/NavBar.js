@@ -5,7 +5,7 @@ const NavBar = () => {
   return (
     <div id="navbar" className="navbar top">
       <h1 className="logo">
-        <i style={{color: "#FBC4AB"}} class="fa-solid fa-capsules"></i>
+        <i style={{color: "#e4c5be"}} class="fa-solid fa-capsules"></i>
         <span className="text-primary">&nbsp; Nataly Patino Bleibdrey</span>
       </h1>
       <nav>
@@ -20,7 +20,7 @@ const NavBar = () => {
             <a href="#publications">Publications</a>
           </li>
           <li>
-            <a href="#background">Background</a>
+            <a href="#team">Team</a>
           </li>
           <li>
             <a href="#contact">Contact</a>

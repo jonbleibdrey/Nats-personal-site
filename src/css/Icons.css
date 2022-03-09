@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+
+
 #about p {
   max-width: 500px;
 }
@@ -6,12 +9,13 @@
 }
 
 .icons h3 {
+  font-family: 'Dancing Script', cursive;
   font-weight: bold;
   margin-bottom: 15px;
 }
 
 .icons i {
-  background-color: rgb(131, 205, 224);
+  background-color: #796763;
   color: #fff;
   padding: 1rem;
   border-radius: 50%;
