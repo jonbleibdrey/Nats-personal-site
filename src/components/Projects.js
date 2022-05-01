@@ -9,7 +9,6 @@ const Projects = () => {
   return (
     <section id="publications" className="cases flex-grid section-padding">
       <header className="section-header">
-        <h4>What I've worked on...</h4>
         <h2>Publications</h2>
         <p>
           These are my publications so far:

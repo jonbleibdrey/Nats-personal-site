@@ -13,13 +13,17 @@ const About = () => {
       </div>
       <div className="column">
         <div className="column-2 bg-primary">
-          <h4>I am what you are looking for.</h4>
-          <h2>I get things done!</h2>
+          <h4>Career path information</h4>
+          <h2>Healthcare Impact & Innovation</h2>
           <p>
-            I am a capricorn with a strong sense of direction, I have a work
-            ethic that no one can compare too, and Im reliable.
-            <br />
-            Link below for github information.
+            Holds a Master of public health in healthcare systems & policy, bachelors in biology & french literature
+            <br/>
+            has worked at johnson & johnson, Pfizer, and Zs associates
+            <br/>
+            passionate about advancing women in stem
+            <br/>
+            <br/>
+            <h6>To find out more, click below</h6>
           </p>
           <a
             href="https://github.com/jonbleibdrey"
@@ -28,7 +32,7 @@ const About = () => {
             className="btn btn-outline"
           >
             <i className="fas fa-chevron"></i>
-            Github Here
+            LinkedIn
           </a>
         </div>
       </div>

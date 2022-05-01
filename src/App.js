@@ -20,8 +20,6 @@ function App() {
       <main>
         <Icons />
         <About />
-        <Blog />
-        <About />
         <Projects />
         <Team />
         <Contact />
