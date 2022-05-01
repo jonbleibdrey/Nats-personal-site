@@ -16,9 +16,9 @@ const About = () => {
           <h4>Career path information</h4>
           <h2>Healthcare Impact & Innovation</h2>
           <p>
-            Holds a Master of public health in healthcare systems & policy, bachelors in biology & french literature
+            Master of public health in healthcare systems & policy, bachelors in biology & french literature
             <br/>
-            has worked at johnson & johnson, Pfizer, and Zs associates
+            worked at johnson & johnson, Pfizer, and Zs associates
             <br/>
             passionate about advancing women in stem
             <br/>
