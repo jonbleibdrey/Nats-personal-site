@@ -34,7 +34,7 @@ const Contact = () => {
       </div>
       <div className="column">
         <div className="column-2 bg-light">
-          <h2>Request CallBack</h2>
+          <h2>Contact Me</h2>
           <form onSubmit={handleSubmit} ref={form} className="callback-form">
             <div className="form-control">
               <input

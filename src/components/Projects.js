@@ -11,7 +11,7 @@ const Projects = () => {
       <header className="section-header">
         <h2>Publications</h2>
         <p>
-          These are my publications so far:
+          My contributions to date:
         </p>
       </header>
       <div className="row">

@@ -10,7 +10,7 @@ const Icons = () => {
         <div>
           <h3>Industy Expertise</h3>
           <p>
-          An experienced pharmaceutical industry professional who has worked on integrated evidence and strategy planning. As well as helped develop IEGPs for specific assets working closely with cross-functional client teams.
+          experienced pharmaceutical industry professional in integrated evidence and strategy planning. developed rwe strategy for global cross-functional teams.
           </p>
         </div>
       </div>
