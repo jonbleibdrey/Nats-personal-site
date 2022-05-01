@@ -10,7 +10,7 @@ const Icons = () => {
         <div>
           <h3>Industy Expertise</h3>
           <p>
-          I am an experienced pharmaceutical industry professional who has worked on integrated evidence and strategy planning. As well as helped develop IEGPs for specific assets working closely with cross-functional client teams.
+          An experienced pharmaceutical industry professional who has worked on integrated evidence and strategy planning. As well as helped develop IEGPs for specific assets working closely with cross-functional client teams.
           </p>
         </div>
       </div>
@@ -19,7 +19,7 @@ const Icons = () => {
         <div>
           <h3>Publications Planning</h3>
           <p>
-          worked on observational study design, chart reviews, health outcomes, global value dossiers, integrated evidence strategic planning and has deep knowledge of coding within observational healthcare databases. 
+          observational study design, chart reviews, health economics outcomes research, global value dossiers, integrated evidence strategic, observational healthcare databases. 
           </p>
         </div>
       </div>
@@ -28,7 +28,7 @@ const Icons = () => {
         <div>
           <h3>RWE Strategy</h3>
           <p>
-          Experience in developing RWE vision, strategy and roadmaps. She also supports building a global center of excellence in setting up scientific standards for RWE research. 
+          Experience in developing RWE vision, strategy and roadmaps. knowledge in building a global center of excellence with innovative scientific standards for RWE research. 
           </p>
         </div>
       </div>
